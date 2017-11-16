@@ -1,0 +1,4 @@
+Rectangle0{384,84,29,35}
+Rectangle1{40,58,18,30}
+Rectangle2{388,379,25,31}
+Rectangle3{33,436,29,36}

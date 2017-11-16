@@ -1,0 +1,8 @@
+Rectangle0{256,53,28,38}
+Rectangle1{289,124,28,30}
+Rectangle2{415,118,31,36}
+Rectangle3{322,314,27,34}
+Rectangle4{388,348,26,29}
+Rectangle5{155,372,36,36}
+Rectangle6{64,374,31,38}
+Rectangle7{96,207,31,41}
